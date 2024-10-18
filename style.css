@@ -1,0 +1,92 @@
+body{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    
+}
+.box{
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 20px;
+    display: inline-block;
+    width: 1000px;
+    
+}
+.main{
+    display: flex;
+    justify-content: start;
+    gap: 5px;
+    align-items: center;
+}
+p2{
+    background-color: antiquewhite;
+    width: 90px;
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 20px;
+    font-size: 20px;
+    
+}
+.first_big_photo{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+.first_photo{
+    width: 97px;
+    height: 90px;
+    border-radius: 20px;
+}
+.first_div{
+    margin-top: 70px;
+    border: 20px white solid;
+    background-color: white;
+    width: 300px;
+    border-radius: 20px;
+}
+
+
+
+.second_big_photo{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+.second_photo{
+    width: 97px;
+    height: 90px;
+    border-radius: 20px;
+}
+.second_div{
+    margin-top: 70px;
+    border: 20px white solid;
+    background-color: white;
+    width: 300px;
+    border-radius: 20px;
+}
+
+
+
+
+.third_big_photo{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+.third_photo{
+    width: 97px;
+    height: 90px;
+    border-radius: 20px;
+}
+.third_div{
+    margin-top: 70px;
+    border: 20px white solid;
+    background-color: white;
+    width: 300px;
+    border-radius: 20px;
+}
+.total{
+    display: flex;
+    flex-direction: row;
+}
